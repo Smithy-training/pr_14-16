@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791495797135",
+    "project_id": "training-10100",
+    "storage_bucket": "training-10100.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791495797135:android:bf05d673c3a79943afc3fa",
+        "android_client_info": {
+          "package_name": "com.example.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq0Vji-N4uNLmPOqcdafsjBu6tjJECg9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
